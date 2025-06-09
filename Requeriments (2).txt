@@ -1,0 +1,4 @@
+pymupdf==1.22.5
+transformers==4.30.2
+torch==2.0.1
+datasets==2.14.5
